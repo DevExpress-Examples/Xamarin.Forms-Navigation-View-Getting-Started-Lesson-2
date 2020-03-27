@@ -14,17 +14,6 @@
     <PackageReference Include="DevExpress.XamarinForms.Navigation" Version="19.2.7" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.XamarinForms.Navigation">
-      <HintPath>..\..\..\..\..\..\build\DevExpress.Xamarin\Binaries\DevExpress.XamarinForms.Navigation.dll</HintPath>
-    </Reference>
-    <Reference Include="DevExpress.XamarinForms.Navigation">
-      <HintPath>..\..\..\..\..\..\native-mobile\xamarin\Binaries\DevExpress.XamarinForms.Navigation.dll</HintPath>
-    </Reference>
-    <Reference Include="DevExpress.XamarinForms.Core">
-      <HintPath>..\..\..\..\..\..\native-mobile\xamarin\Binaries\DevExpress.XamarinForms.Core.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="ViewModels\" />
     <Folder Include="Views\" />
     <Folder Include="Models\" />
