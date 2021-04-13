@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="4.5.0.495" />
-    <PackageReference Include="DevExpress.XamarinForms.Navigation" Version="19.2.7" />
+    <PackageReference Include="DevExpress.XamarinForms.Navigation" Version="20.2.6" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ViewModels\" />
